@@ -1,4 +1,4 @@
-![Building the Future, One Commit at a Time](https://iili.io/JTKG3jS.gif)
+![Building the Future, One Commit at a Time](https://iili.io/JTfPa5v.png)
 
 # Hi there! 👋 I'm Md Abu Syed Sarker
 ## Building the Future, One Commit at a Time
