@@ -1,7 +1,7 @@
-### Hi there 👋, My name is Md Abu syed sarker
-#### Building the Future, One Commit at a Time
 ![Building the Future, One Commit at a Time](https://iili.io/JTKG3jS.gif)
 
+### Hi there 👋, My name is Md Abu syed sarker
+#### Building the Future, One Commit at a Time
 👋 Frontend aficionado specializing in React, JavaScript, and Tailwind CSS. Crafting seamless user experiences with Next.js. Let's code something extraordinary together! 💻✨
 
 Skills: REACT / JS / HTML / CSS/ TAILWIND / EXPRESS JS / MONGODB / NEXT JS
