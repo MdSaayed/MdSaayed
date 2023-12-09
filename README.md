@@ -5,7 +5,7 @@
 🚀 Frontend developer passionate about React, JavaScript, and Tailwind CSS. Crafting seamless user experiences with Next.js. Let's code something extraordinary together! 💻✨
 
 #### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abu-syed-sarker) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsaayed) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/findsayedkhan) 
 
 #### 💻 Tech Stack:
